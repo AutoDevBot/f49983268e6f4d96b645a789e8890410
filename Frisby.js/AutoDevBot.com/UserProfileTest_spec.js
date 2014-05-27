@@ -17,7 +17,7 @@ frisby.create('Sample GET')
         {
             "user_name":String,
             "has_credit_card":Boolean,
-            "age":Number
+            "age":String
         }
     )
     .toss();
